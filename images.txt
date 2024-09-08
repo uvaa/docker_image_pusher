@@ -3,3 +3,4 @@ mysql:8
 mysql:9
 node:12
 node:18-alpine
+node:18
