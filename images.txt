@@ -5,3 +5,4 @@ node:12
 node:18-alpine
 node:18
 node:15
+nginx:alpine
