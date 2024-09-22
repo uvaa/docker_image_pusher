@@ -6,3 +6,4 @@ node:18-alpine
 node:18
 node:15
 nginx:alpine
+joxit/docker-registry-ui:main
