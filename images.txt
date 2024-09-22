@@ -1,3 +1,4 @@
+# registry.cn-wulanchabu.aliyuncs.com/cdsc/[镜像名称，无原二级目录]
 redis:5.0.4-alpine
 mysql:8
 mysql:9
@@ -8,3 +9,4 @@ node:15
 nginx:alpine
 joxit/docker-registry-ui:main
 portainer/portainer-ce:2.19.5-alpine
+portainer/portainer-ee:2.19.5-alpine
