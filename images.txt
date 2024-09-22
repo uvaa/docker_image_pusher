@@ -7,3 +7,4 @@ node:18
 node:15
 nginx:alpine
 joxit/docker-registry-ui:main
+portainer/portainer-ce:2.19.5-alpine
