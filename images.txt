@@ -11,3 +11,4 @@ joxit/docker-registry-ui:main
 portainer/portainer-ce:2.19.5-alpine
 portainer/portainer-ee:2.19.5-alpine
 btpanel/baota:9.0_lts_lnmp
+graylog/graylog:6.1
