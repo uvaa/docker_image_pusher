@@ -13,3 +13,6 @@ portainer/portainer-ce:2.19.5-alpine
 portainer/portainer-ee:2.19.5-alpine
 btpanel/baota:9.0_lts_lnmp
 graylog/graylog:6.1
+opensearchproject/opensearch:2.18.0
+mongo:7.0-jammy
+graylog/graylog:6.1.4
