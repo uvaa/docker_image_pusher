@@ -18,3 +18,4 @@ opensearchproject/opensearch:2.18.0
 mongo:7.0-jammy
 graylog/graylog:6.1.4
 php:7.2-apache
+rustdesk/rustdesk-server:1.1.14
