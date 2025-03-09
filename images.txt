@@ -1,22 +1,23 @@
 # registry.cn-wulanchabu.aliyuncs.com/cdsc/[镜像名称，无原二级目录]
 # --platform=xxxxx alpine:3
-redis:5.0.4-alpine
-mysql:8
-mysql:9
-node:12
-node:18-alpine
-node:18
-node:15
-node:14
-nginx:alpine
-joxit/docker-registry-ui:main
-portainer/portainer-ce:2.19.5-alpine
-portainer/portainer-ee:2.19.5-alpine
-btpanel/baota:9.0_lts_lnmp
-graylog/graylog:6.1
-opensearchproject/opensearch:2.18.0
-mongo:7.0-jammy
-graylog/graylog:6.1.4
-php:7.2-apache
-rustdesk/rustdesk-server:1.1.14
-influxdb:2.7.11-alpine
+# redis:5.0.4-alpine
+# mysql:8
+# mysql:9
+# node:12
+# node:18-alpine
+# node:18
+# node:15
+# node:14
+# nginx:alpine
+# joxit/docker-registry-ui:main
+# portainer/portainer-ce:2.19.5-alpine
+# portainer/portainer-ee:2.19.5-alpine
+# btpanel/baota:9.0_lts_lnmp
+# graylog/graylog:6.1
+# opensearchproject/opensearch:2.18.0
+# mongo:7.0-jammy
+# graylog/graylog:6.1.4
+# php:7.2-apache
+# rustdesk/rustdesk-server:1.1.14
+# influxdb:2.7.11-alpine
+node:16
