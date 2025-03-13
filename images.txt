@@ -20,4 +20,5 @@
 # php:7.2-apache
 # rustdesk/rustdesk-server:1.1.14
 # influxdb:2.7.11-alpine
-node:16
+# node:16
+portainer/portainer-ce:2.27.1-alpine
