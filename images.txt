@@ -23,4 +23,5 @@
 # node:16
 # portainer/portainer-ce:2.27.2-alpine
 apache/superset:GHA-14120812287
-
+nodered/node-red:4.0.9-22-minimal
+nodered/node-red:4.0.9-22
