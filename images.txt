@@ -25,4 +25,5 @@
 # apache/superset:GHA-14120812287
 # nodered/node-red:4.0.9-22-minimal
 # nodered/node-red:4.0.9-22
-dperson/openvpn-client
+# dperson/openvpn-client
+softethervpn/vpnclient
