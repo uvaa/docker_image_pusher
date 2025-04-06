@@ -26,4 +26,5 @@
 # nodered/node-red:4.0.9-22-minimal
 # nodered/node-red:4.0.9-22
 # dperson/openvpn-client
-softethervpn/vpnclient
+# softethervpn/vpnclient
+traefik/whoami
