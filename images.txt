@@ -27,4 +27,5 @@
 # nodered/node-red:4.0.9-22
 # dperson/openvpn-client
 # softethervpn/vpnclient
-traefik/whoami
+# traefik/whoami
+linuxserver/wireguard
