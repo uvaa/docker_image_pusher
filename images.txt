@@ -28,4 +28,5 @@
 # dperson/openvpn-client
 # softethervpn/vpnclient
 # traefik/whoami
-linuxserver/wireguard
+# linuxserver/wireguard
+python:alpine
