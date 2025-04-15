@@ -30,4 +30,5 @@
 # traefik/whoami
 # linuxserver/wireguard
 # python:alpine
-python
+# python
+starrocks/artifacts-centos7
