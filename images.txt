@@ -31,4 +31,4 @@
 # linuxserver/wireguard
 # python:alpine
 # python
---platform=linux/arm64 starrocks/artifacts-centos7
+--platform=linux/arm64 starrocks/artifacts-centos7:3.4.2
