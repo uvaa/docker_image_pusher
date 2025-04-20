@@ -32,4 +32,5 @@
 # python:alpine
 # python
 # --platform=linux/arm64 starrocks/artifacts-centos7:3.4.2
-busybox
+# busybox
+apache/superset:8c94f9c
