@@ -34,5 +34,6 @@
 # --platform=linux/arm64 starrocks/artifacts-centos7:3.4.2
 # busybox
 # apache/superset:8c94f9c
-nodered/node-red:4.0.9
-nodered/node-red:4.0.9-minimal
+# nodered/node-red:4.0.9
+# nodered/node-red:4.0.9-minimal
+uvaa/nginx
