@@ -36,4 +36,5 @@
 # apache/superset:8c94f9c
 # nodered/node-red:4.0.9
 # nodered/node-red:4.0.9-minimal
-uvaa/nginx
+# uvaa/nginx
+centos:8
