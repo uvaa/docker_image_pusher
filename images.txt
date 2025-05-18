@@ -21,7 +21,7 @@
 # rustdesk/rustdesk-server:1.1.14
 # influxdb:2.7.11-alpine
 # node:16
-portainer/portainer-ce:2.27.6-alpine
+# portainer/portainer-ce:2.27.6-alpine
 # apache/superset:GHA-14120812287
 # nodered/node-red:4.0.9-22-minimal
 # nodered/node-red:4.0.9-22
@@ -38,3 +38,6 @@ portainer/portainer-ce:2.27.6-alpine
 # nodered/node-red:4.0.9-minimal
 # uvaa/nginx
 # centos:8
+nextcloud:29
+nextcloud:30
+nextcloud:31
