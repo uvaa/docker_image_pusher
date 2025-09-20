@@ -38,7 +38,8 @@
 # nodered/node-red:4.0.9-minimal
 # uvaa/nginx
 # centos:8
-python:3.9-alpine
-nextcloud:29
-nextcloud:30
-nextcloud:31
+#python:3.9-alpine
+#nextcloud:29
+#nextcloud:30
+#nextcloud:31
+graylog/graylog:6.3.3
