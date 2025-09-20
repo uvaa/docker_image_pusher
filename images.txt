@@ -39,3 +39,6 @@
 # uvaa/nginx
 # centos:8
 python:3.9-alpine
+nextcloud:29
+nextcloud:30
+nextcloud:31
