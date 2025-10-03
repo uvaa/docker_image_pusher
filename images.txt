@@ -73,5 +73,6 @@
 # docker.elastic.co/kibana/kibana:8.14.3
 # downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
-postgres:18-alpine
-kong/kong-gateway:3.12-debian
+# postgres:18-alpine
+# kong/kong-gateway:3.12-debian
+kong/kong:3.9-debian
