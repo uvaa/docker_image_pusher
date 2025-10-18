@@ -75,4 +75,6 @@
 
 # postgres:18-alpine
 # kong/kong-gateway:3.12-debian
-kong/kong:3.9-debian
+# kong/kong:3.9-debian
+
+siomiz/softethervpn:5.02.5185
