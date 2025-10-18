@@ -79,4 +79,5 @@
 
 # siomiz/softethervpn:5.02.5185
 
-portainer/portainer-ce:2.33.2-alpine
+# portainer/portainer-ce:2.33.2-alpine
+node:25-alpine
