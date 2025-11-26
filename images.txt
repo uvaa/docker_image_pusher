@@ -36,7 +36,7 @@
 # apache/superset:8c94f9c
 # nodered/node-red:4.0.9
 # nodered/node-red:4.0.9-minimal
-# uvaa/nginx
+uvaa/nginx:1.23.1
 # centos:8
 # python:3.9-alpine # nextcloud:29
 # nextcloud:30
@@ -86,4 +86,4 @@
 # tomcat:9-jre8
 # tomcat:9-jre17
 
-xinsodev/drawdb
+# xinsodev/drawdb
