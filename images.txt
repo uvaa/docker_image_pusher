@@ -87,3 +87,5 @@ uvaa/nginx
 # tomcat:9-jre17
 
 # xinsodev/drawdb
+
+nginx:alpine
