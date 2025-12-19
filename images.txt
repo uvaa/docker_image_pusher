@@ -36,7 +36,7 @@
 # apache/superset:8c94f9c
 # nodered/node-red:4.0.9
 # nodered/node-red:4.0.9-minimal
-uvaa/nginx:1.29.4
+# uvaa/nginx:1.29.4
 # centos:8
 # python:3.9-alpine # nextcloud:29
 # nextcloud:30
@@ -89,3 +89,5 @@ uvaa/nginx:1.29.4
 # xinsodev/drawdb
 
 # nginx:alpine
+
+allinurl/goaccess:1.9.4
