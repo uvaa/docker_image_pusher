@@ -82,4 +82,5 @@
 # xinsodev/drawdb
 # nginx:alpine
 # allinurl/goaccess:1.9.4
-portainer/portainer-ce:2.33.6-alpine
+# portainer/portainer-ce:2.33.6-alpine
+nbr23/claudecode:claude-code-2.1.85
