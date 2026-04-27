@@ -83,4 +83,5 @@
 # nginx:alpine
 # allinurl/goaccess:1.9.4
 # portainer/portainer-ce:2.33.6-alpine
-nbr23/claudecode:claude-code-2.1.85
+# nbr23/claudecode:claude-code-2.1.85
+portainer/portainer-ce:2.40.0-alpine
