@@ -85,4 +85,5 @@
 # portainer/portainer-ce:2.33.6-alpine
 # nbr23/claudecode:claude-code-2.1.85
 # portainer/portainer-ce:2.40.0-alpine
-maven:3.6-jdk-8-alpine
+# maven:3.6-jdk-8-alpine
+gvenzl/oracle-xe
