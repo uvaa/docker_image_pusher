@@ -87,4 +87,5 @@
 # portainer/portainer-ce:2.40.0-alpine
 # maven:3.6-jdk-8-alpine
 # gvenzl/oracle-xe
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+# minio/minio:RELEASE.2025-04-22T22-12-26Z
+elasticsearch:7.17.26
