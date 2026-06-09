@@ -89,4 +89,5 @@
 # gvenzl/oracle-xe
 # minio/minio:RELEASE.2025-04-22T22-12-26Z
 # elasticsearch:7.17.26
-amazoncorretto:8u492
+# amazoncorretto:8u492
+portainer/agent:2.40.0
