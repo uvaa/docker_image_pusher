@@ -91,4 +91,5 @@
 # elasticsearch:7.17.26
 # amazoncorretto:8u492
 # portainer/agent:2.40.0
-ubuntu:22.04
+# ubuntu:22.04
+graylog/graylog:7.1.8
