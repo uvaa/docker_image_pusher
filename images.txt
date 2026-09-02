@@ -89,10 +89,11 @@
 # gvenzl/oracle-xe
 # minio/minio:RELEASE.2025-04-22T22-12-26Z
 # elasticsearch:7.17.26
-# amazoncorretto:8u492
+amazoncorretto:8u492
+amazoncorretto:8u492-alpine
 # portainer/agent:2.40.0
 # ubuntu:22.04
 # graylog/graylog:7.1.8
 # graylog/graylog:6.3.15
---platform=linux/arm64 amazoncorretto:8u492
---platform=linux/arm64 nginx:alpine3.24
+# --platform=linux/arm64 amazoncorretto:8u492
+# --platform=linux/arm64 nginx:alpine3.24
